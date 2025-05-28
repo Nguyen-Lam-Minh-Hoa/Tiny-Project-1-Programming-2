@@ -1,0 +1,23 @@
+======================================================================
+Student name: Nguyen Lam Minh Hoa
+Student ID: 10422030
+======================================================================
+To run this project, you just copy and paste the following code:
+----------------------------------------------------------------------
+mkdir build
+cd build
+cmake ..
+make
+./
+----------------------------------------------------------------------
+Where ./ you should add the part you want to test, for example:
+./test_vector
+./test_matrix
+./test_linear_system
+./test_pos_sym_lin_system
+./test_non_square_system
+./test_regression_real_data
+=======================================================================
+Contact: 
+10422030@student.vgu.edu.vn (work)
+nguyenlamminhhoa@gmail.com (Personal)
